@@ -1,0 +1,6 @@
+aiogram==3.4.1
+python-dotenv==1.0.1
+fastapi
+uvicorn
+jinja2
+python-multipart

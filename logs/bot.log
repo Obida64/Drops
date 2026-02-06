@@ -1,0 +1,24 @@
+2026-02-05 13:47:26,460 | INFO | RUST_BOT | 🤖 Бот инициализирован
+2026-02-05 13:47:26,461 | INFO | RUST_BOT | 🚀 Бот запущен и слушает Telegram
+2026-02-05 13:47:26,461 | INFO | aiogram.dispatcher | Start polling
+2026-02-05 13:47:27,351 | INFO | aiogram.dispatcher | Run polling for bot @Rustersha_bot id=5281039760 - 'Rustersha_post'
+2026-02-05 13:48:39,853 | INFO | aiogram.event | Update id=160169787 is handled. Duration 861 ms by bot id=5281039760
+2026-02-05 13:48:46,032 | INFO | aiogram.event | Update id=160169788 is handled. Duration 305 ms by bot id=5281039760
+2026-02-05 13:48:48,465 | INFO | aiogram.event | Update id=160169789 is handled. Duration 296 ms by bot id=5281039760
+2026-02-05 13:49:00,186 | INFO | aiogram.event | Update id=160169790 is handled. Duration 360 ms by bot id=5281039760
+2026-02-05 13:49:02,232 | INFO | aiogram.event | Update id=160169791 is handled. Duration 290 ms by bot id=5281039760
+2026-02-05 13:50:44,704 | INFO | aiogram.event | Update id=160169792 is handled. Duration 318 ms by bot id=5281039760
+2026-02-05 13:50:50,156 | INFO | aiogram.event | Update id=160169793 is handled. Duration 314 ms by bot id=5281039760
+2026-02-05 13:50:54,743 | INFO | aiogram.event | Update id=160169794 is handled. Duration 503 ms by bot id=5281039760
+2026-02-05 13:51:03,554 | INFO | aiogram.event | Update id=160169795 is not handled. Duration 0 ms by bot id=5281039760
+2026-02-05 13:51:08,263 | INFO | aiogram.event | Update id=160169796 is not handled. Duration 0 ms by bot id=5281039760
+2026-02-05 13:51:28,430 | INFO | aiogram.event | Update id=160169797 is handled. Duration 300 ms by bot id=5281039760
+2026-02-05 13:51:30,017 | INFO | aiogram.event | Update id=160169798 is handled. Duration 299 ms by bot id=5281039760
+2026-02-05 13:51:39,634 | INFO | aiogram.event | Update id=160169799 is not handled. Duration 0 ms by bot id=5281039760
+2026-02-05 13:51:42,105 | INFO | aiogram.event | Update id=160169800 is not handled. Duration 0 ms by bot id=5281039760
+2026-02-05 13:51:43,145 | INFO | aiogram.event | Update id=160169801 is not handled. Duration 0 ms by bot id=5281039760
+2026-02-05 13:52:15,523 | INFO | aiogram.event | Update id=160169802 is handled. Duration 291 ms by bot id=5281039760
+2026-02-05 13:52:17,232 | INFO | aiogram.event | Update id=160169803 is handled. Duration 297 ms by bot id=5281039760
+2026-02-05 13:54:17,650 | WARNING | aiogram.dispatcher | Received SIGINT signal
+2026-02-05 13:54:17,652 | INFO | aiogram.dispatcher | Polling stopped for bot @Rustersha_bot id=5281039760 - 'Rustersha_post'
+2026-02-05 13:54:17,652 | INFO | aiogram.dispatcher | Polling stopped

@@ -1,0 +1,16 @@
+{
+  "round_1": {
+    "title": "RUST Twitch Drops — Round 1",
+    "price": 5.99,
+    "description": "4 Twitch drops: Hoodie, Door, AK Skin",
+    "image": "/static/round1.jpg",
+    "active": true
+  },
+  "round_2": {
+    "title": "RUST Twitch Drops — Round 2",
+    "price": 7.99,
+    "description": "Exclusive skins from top streamers",
+    "image": "/static/round2.jpg",
+    "active": true
+  }
+}

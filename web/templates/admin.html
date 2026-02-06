@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<h1>🔥 RUST Drops Admin</h1>
+
+{% for key, drop in drops.items() %}
+<div class="card">
+    <form method="post" action="/update">
+        <input type="hidden" name="key" value="{{ key }}">
+
+        <input name="title" value="{{ drop.title }}">
+        <input name="price" value="{{ drop.price }}">
+        <textarea name="description">{{ drop.description }}</textarea>
+
+        <button>💾 Save</button>
+    </form>
+</div>
+{% endfor %}
+
+</body>
+</html>
